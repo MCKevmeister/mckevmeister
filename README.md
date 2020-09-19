@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+🌱 I’m currently studying a Bachelor of Information Technology at Nelson Marlborough Institute of Technology NMIT.
+
+📫 How to reach me: MC-Kevmeister@protonmail.com
+
 <!--
 **MCKevmeister/mckevmeister** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
