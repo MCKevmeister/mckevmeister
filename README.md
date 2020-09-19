@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I’m currently studying a Bachelor of Information Technology at Nelson Marlborough Institute of Technology NMIT.
+🌱 I’m currently studying a Bachelor of Information Technology at Nelson Marlborough Institute of Technology ![NMIT LOGO](https://upload.wikimedia.org/wikipedia/commons/9/9f/Nelson_Marlborough_Institute_of_Technology_logo.gif)
 
 📫 How to reach me: MC-Kevmeister@protonmail.com
 
